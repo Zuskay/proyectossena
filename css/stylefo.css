@@ -1,0 +1,5 @@
+input[type="text"]:focus,
+input[type="email"]:focus {
+    border: 2px solid blue;
+    outline: none;
+}

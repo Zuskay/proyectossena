@@ -1,0 +1,12 @@
+.lista li:first-child {
+    background-color: lightblue;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.contenedor p:first-child {
+    background-color: lightgreen;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: 30px;
+}
